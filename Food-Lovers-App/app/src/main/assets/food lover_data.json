@@ -1,0 +1,71 @@
+[
+  {
+
+  "imageFile": "food01",
+  "foodName": "original pancake",
+  "storeName": "IHOP",
+  "price": 169,
+  "star": 1,
+  "description": "Soft dough, scented with butter, has a soft texture"
+
+},
+{
+
+"imageFile": "food02",
+"foodName": "blue berry pancake",
+"storeName": "Pancake Cafe",
+"price": 179,
+"star": 3,
+"description": "Soft powder, scented with blueberries, has a soft texture"
+},
+{
+
+"imageFile": "food03",
+"foodName": "chocolate pancake",
+"storeName": "J Walk Cafe",
+"price": 179,
+"star": 4,
+"description": "Soft powder, rich chocolate scent, just right sweet"
+
+},
+{
+
+"imageFile": "food04",
+"foodName": "red velvet pancake",
+"storeName": "Lunar Nuna Korean Dessert Cafe",
+"price": 189,
+"star": 2,
+"description": "Soft powder Unique"
+
+},
+{
+
+"imageFile": "food05",
+"foodName": "mini berry pancake",
+"storeName": "Hungry Bear",
+"price": 175,
+"star": 5,
+"description": "Soft powder with a scent of strawberries and strawberries. Has a good sweet and sour taste"
+
+},
+{
+
+"imageFile": "food06",
+"foodName": "souffle pancake",
+"storeName": "Souffle & Souffle Pancakes Cafe",
+"price": 209,
+"star": 4,
+"description": "Flour is soft and fluffy like a cloud scented with butter"
+
+},
+{
+
+"imageFile": "food07",
+"foodName": "souffle mixed berry pancake",
+"storeName": "Hiro Keki",
+"price": 219,
+"star": 5,
+"description": "Flour is soft and fluffy like a cloud. The scent of butter and sweet and sour taste is just right. Fragrant mixed berry scent"
+
+}
+]
